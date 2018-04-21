@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stuartzhangshuo/clairvoyant/issues"
   },
-  "homepage": "https://github.com/stuartzhangshuo/clairvoyant#readme"
+  "homepage": "https://github.com/stuartzhangshuo/clairvoyant#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
 }
