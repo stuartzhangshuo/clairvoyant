@@ -1,0 +1,26 @@
+{
+  "name": "clairvoyant",
+  "version": "1.0.0",
+  "description": "A personal financial management web application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuartzhangshuo/clairvoyant.git"
+  },
+  "author": "Stuart Zhang",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/stuartzhangshuo/clairvoyant/issues"
+  },
+  "homepage": "https://github.com/stuartzhangshuo/clairvoyant#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
